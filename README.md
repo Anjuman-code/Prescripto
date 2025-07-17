@@ -2,8 +2,6 @@
 
 > A modern, full-stack doctor appointment booking platform built with MERN stack (MongoDB, Express.js, React.js, Node.js)
 
-🔗 [Live Demo](https://prescripto.vercel.app) *(Optional - Add your deployed URL)*
-
 ## 📝 Description
 
 Prescripto is a comprehensive healthcare appointment management system that bridges the gap between patients and doctors. It features a user-friendly interface for patients to book appointments, a dedicated portal for doctors to manage their schedules, and an admin dashboard for overall system management.
